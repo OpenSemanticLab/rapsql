@@ -118,6 +118,7 @@ Use either curl or Swagger UI, if you have this service set up. Here's an exampl
 1. Open Swagger UI in browser http://localhost:8080/#/(rpc)%20rapsql_query/post_rpc_rapsql_query 
 2. Push button 'Try it out' (on top right of this rpc)
 3. For instance use one of the JSON bodies below and execute 
+
 Directed relation, n attributes
 ~~~
 {
